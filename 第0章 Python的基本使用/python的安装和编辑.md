@@ -1,5 +1,3 @@
-## python的安装和编辑
-
 ​	[python的安装官网](https://jupyter.org/install.html), 选择windows x64版, 建议下载python3.x
 
 ​	python扩展库的安装方法：在命令行中输入`python -m pip install 库的名称`.  在命令行中输入`python -m pip list`可查看已安装的所有库。必须安装的扩展库有：
